@@ -1,0 +1,27 @@
+name: recipe_manager
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  get: ^4.7.3
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  flutter_form_builder: ^10.3.0+1
+  form_builder_validators: ^11.3.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

@@ -7,6 +7,7 @@ Recipe manager helps the user store and view their recipes. They can add new rec
 ## Link to the app
 
 The application is deployed at:
+https://roberta1400.github.io/Recipe-app/
 
 
 ## Wikihow
